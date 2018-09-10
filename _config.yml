@@ -30,14 +30,14 @@ seo:
 
 # Event information.
 event:
-  name:        "Example Hacks"
+  name:        "Cougar Hacks"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
+  date:        "FEBRUARY 1-3 2019"
   location:    "Holmdel, NJ, United States"
 
   trust_badge:
-    year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
+    year:   "2018"  # season year
+    region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
@@ -51,7 +51,8 @@ event:
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
+      Cougar Hacks is a student-organized Hackathon hosted at California State University San Marcos in the North County
+      of sunny San Diego.
       This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
       Keep it straightforward, don't make it too long.
 
